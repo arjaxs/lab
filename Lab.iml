@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-lang-2.4" level="project" />
+    <orderEntry type="library" name="commons-codec-1.7" level="project" />
+    <orderEntry type="library" name="sanselan-0.97-incubator" level="project" />
+    <orderEntry type="library" name="http-builder-0.7" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="commons-logging-1.1.3" level="project" />
+    <orderEntry type="library" name="signpost-core-1.2.1.1" level="project" />
+    <orderEntry type="library" name="signpost-core-1.2.1.11" level="project" />
+    <orderEntry type="library" name="dexter" level="project" />
+    <orderEntry type="library" name="json-lib.jar" level="project" />
+    <orderEntry type="library" name="Groovy - 2.3.8" level="application" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>
